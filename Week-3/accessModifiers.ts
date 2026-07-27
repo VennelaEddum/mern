@@ -41,7 +41,7 @@ class Manager extends Employee {
 }
 
 // Creating Objects
-const emp = new Employee("Pavani", 50000, "IT");
+const emp = new Employee("Vennela", 50000, "IT");
 
 console.log(emp.name);      // Public - Accessible
 emp.displayDetails();
