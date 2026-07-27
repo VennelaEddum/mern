@@ -2,7 +2,7 @@ import { RailwayTicket } from "./TicketLogic";
 import { Traveler } from "./Passenger";
 
 const passengerInfo: Traveler = {
-    fullName: "Ravi Kumar",
+    fullName: "Ram",
     age: 30,
     seatChoice: "Upper"
 };
