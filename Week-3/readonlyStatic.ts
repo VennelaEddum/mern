@@ -34,7 +34,7 @@ class Student {
 Student.showCollege();
 
 // Creating objects
-const student1 = new Student("Pavani", 101);
+const student1 = new Student("Vennela", 4202);
 const student2 = new Student("Hanuma", 102);
 
 // Display details
